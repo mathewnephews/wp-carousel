@@ -9,7 +9,7 @@ Author URI: http://mathewnephews.wordpress.com/
 */
 
 /* to make sure this widget works properly: lees de readme.txt */
- 
+ // adding a line to check the git
  
 class CarouselWidget extends WP_Widget
 {
